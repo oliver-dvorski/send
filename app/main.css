@@ -1,4 +1,9 @@
-@tailwind preflight;
+@tailwind base;
+
+html {
+  line-height: 1.15;
+}
+
 @tailwind components;
 
 :not(input) {
@@ -307,9 +312,11 @@ select {
 
 .word-break-all {
   word-break: break-all;
+  line-break: anywhere;
 }
 
 .signin {
+  backface-visibility: hidden;
   border-radius: 6px;
   transition-property: transform, background-color;
   transition-duration: 250ms;
