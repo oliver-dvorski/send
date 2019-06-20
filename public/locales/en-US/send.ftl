@@ -13,6 +13,7 @@ timespanHours = { $num ->
        *[other] { $num } hours
     }
 copiedUrl = Copied!
+qrDialogMessage = For your convenience, here's a QR code containing that same link
 unlockInputPlaceholder = Password
 unlockButtonLabel = Unlock
 downloadButtonLabel = Download
@@ -143,3 +144,5 @@ shareLinkDescription = Share the link to your file:
 shareLinkButton = Share link
 # $name is the name of the file
 shareMessage = Download “{ $name }” with { -send-brand }: simple, safe file sharing
+trailheadPromo = There is a way to protect your privacy. Join Firefox.
+learnMore = Learn more.
