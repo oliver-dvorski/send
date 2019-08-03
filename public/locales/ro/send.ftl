@@ -23,7 +23,7 @@ downloadButtonLabel = Descarcă
 downloadFinish = Descărcare încheiată
 fileSizeProgress = ({ $partialSize } din { $totalSize })
 sendYourFilesLink = Încearcă Firefox Send
-errorPageHeader = Ceva a mers prost!
+errorPageHeader = Ceva nu a funcționat!
 fileTooBig = Acest fișier este prea mare. Ar trebuie să fie sub { $size }.
 linkExpiredAlt = Link expirat
 notSupportedHeader = Browserul tău nu este suportat.
@@ -35,7 +35,7 @@ deleteButtonHover = Șterge
 footerLinkLegal = Mențiuni legale
 footerLinkPrivacy = Confidențialitate
 footerLinkCookies = Cookie-uri
-passwordTryAgain = Parola este incorectă. Încearcă din nou.
+passwordTryAgain = Parolă incorectă. Încearcă din nou.
 javascriptRequired = Firefox Send necesită JavaScript
 whyJavascript = De ce Firefox Send necesită JavaScript?
 enableJavascript = Te rugăm să reactivezi JavaScript și să încerci din nou.
@@ -101,7 +101,7 @@ copyLinkDescription = Copiază linkul pentru partajarea fișierului:
 copyLinkButton = Copiază linkul
 downloadTitle = Descarcă fișierele
 downloadDescription = Acest fișier a fost partajat prin { -send-brand }, cu criptare capăt-la-capăt și un link care expiră automat.
-trySendDescription = Încearcă { -send-brand } pentru o partajare de fișiere simplă și sigură.
+trySendDescription = Încearcă { -send-brand } pentru o partajare simplă și sigură a fișierelor.
 # count will always be > 10
 tooManyFiles =
     { $count ->
@@ -160,5 +160,5 @@ shareLinkDescription = Partajează linkul către fișier:
 shareLinkButton = Partajează linkul
 # $name is the name of the file
 shareMessage = Descarcă „{ $name }” cu { -send-brand }: partajare simplă și sigură a fișierelor
-trailheadPromo = Există o modalitate de a-ți proteja confidențialitatea. Alătură-te Firefox.
+trailheadPromo = Există o modalitate de a-ți proteja viața privată. Alătură-te Firefox.
 learnMore = Află mai multe.
